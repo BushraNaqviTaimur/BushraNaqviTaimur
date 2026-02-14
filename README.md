@@ -3,13 +3,18 @@
 Hi 👋 I’m Bushra,an iOS developer crafting refined, scalable Swift & SwiftUI applications with a strong focus on performance, privacy, and seamless user experience.
 
 I build elegant digital products where thoughtful design meets robust engineering.
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/syeda-bushra-taimur" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="22" />
+<p>
+  <strong>Connect :</strong>
+  <a href="https://www.linkedin.com/in/syeda-bushra-taimur">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="20" />
   </a>
-  &nbsp;&nbsp;
+  &nbsp;|&nbsp;
   <a href="mailto:syedabushranaqvi@icloud.com">
-    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="22" />
+    <img src="https://skillicons.dev/icons?i=gmail" height="20" />
+  </a>
+  &nbsp;|&nbsp;
+  <a href="https://www.instagram.com/syedabushranaqvi/">
+    <img src="https://skillicons.dev/icons?i=instagram" height="20" />
   </a>
 </p>
+
