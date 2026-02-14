@@ -6,15 +6,15 @@ I build elegant digital products where thoughtful design meets robust engineerin
 <p>
   <strong>Connect :</strong>
   <a href="https://www.linkedin.com/in/syeda-bushra-taimur">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="20" />
+    <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
   &nbsp;|&nbsp;
   <a href="mailto:syedabushranaqvi@icloud.com">
-    <img src="https://skillicons.dev/icons?i=gmail" height="20" />
+    <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
   &nbsp;|&nbsp;
   <a href="https://www.instagram.com/syedabushranaqvi/">
-    <img src="https://skillicons.dev/icons?i=instagram" height="20" />
+    <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
 </p>
 
