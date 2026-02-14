@@ -1,8 +1,9 @@
 <h1 align="left"> Hello World 👩🏻‍💻 </h1>
 <h3 align="left"> Software Engineer | iOS Developer | SwiftUI Enthusiast </h3>
-Hi 👋 I’m Bushra,an iOS developer crafting refined, scalable Swift & SwiftUI applications with a strong focus on performance, privacy, and seamless user experience.
+Hi 👋 I’m Bushra,iOS developer working primarily with Swift and SwiftUI, focused on building reliable, well structured applications for Apple platforms.
 
-I build elegant digital products where thoughtful design meets robust engineering.
+Interested in on-device intelligence, clean architecture, and long-term product quality.
+
 <p align="left">
   <strong>Connect :</strong>
   <a href="https://www.linkedin.com/in/syeda-bushra-taimur">
